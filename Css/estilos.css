@@ -27,8 +27,6 @@ body
     font-size: 0.8;
     text-align: center;
 }
- 
-
 
 #container 
 {
@@ -36,20 +34,8 @@ body
     padding: 1em;
     text-align: center;
     border: 1px solid #DDD
-  ;
+
 }
-En este ejemplo, hemos definido una clase CSS llamada centered-text que establece la propiedad text-align en center, lo que centra horizontalmente el texto contenido en cualquier elemento con esa clase.
-
-Recuerda que estos son solo ejemplos básicos. Puedes aplicar estilos más complejos y personalizados según tus necesidades.
-
-
-
-
-
-
-    
-}
-
 #container h1 
 {
     font-size: 20px;
