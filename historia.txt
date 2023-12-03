@@ -4,8 +4,14 @@ Estoy bien economicamente
 
 vivo con mi esposo y mis can hijos 
 
+Experimento 1
 Master 1
+<<<<<<< HEAD
 master 2 
+=======
+
+
+>>>>>>> a5e1456 (exp 1)
 Hablo ingles perfecto
 
 Tengo 2 lindos perros y 1 linda gatica
