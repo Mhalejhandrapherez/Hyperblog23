@@ -11,7 +11,7 @@ En este curso veremos de todo
 *Trucos muy locos del profesor 
 *Las personalidades multiples de freddier
 *Creado por el increible platzi team
-
+*Incluye ejemplos de wondows linux y mac
 y como un amable recordatorio: **Este readme.md es un chiste**.
 
 Diseñado para el ejemplo, SI TE LO TOMAS ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
