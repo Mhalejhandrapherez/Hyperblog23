@@ -11,6 +11,11 @@ En este curso veremos de todo
 *Trucos muy locos del profesor 
 *Las personalidades multiples de freddier
 *Creado por el increible platzi team
+<<<<<<< HEAD
+=======
+*Incluye ejemplos de wondows linux y mac
+*Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 y como un amable recordatorio: **Este readme.md es un chiste**.
 
