@@ -10,6 +10,7 @@ En este curso veremos de todo
 *El verdadero amor por las buenas practicas
 *Trucos muy locos del profesor 
 *Las personalidades multiples de freddier
+*Creado por el increible platzi team
 
 y como un amable recordatorio: **Este readme.md es un chiste**.
 
